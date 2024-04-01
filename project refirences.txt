@@ -1,0 +1,31 @@
+https://www.researchgate.net/publication/366437526_A_Comparative_Analysis_of_Machine_Vision_Algorithms_for_Insect_Pests_Classification
+[1]Senthil  Kumar  Swami  Durai,  Mary  Divya  Shamili.  (2022).  Smart  farming  using Machine  Learning  and  Deep  Learning  techniques,  Decision  Analytics  Journal,  3, 100041.
+Insect classification and detection in field crops using modern machine learning techniques
+[2]image enhancement techniques applied to reduce noise in the images and sharpen the images for better accuracy
+[3]Thenmozhi  Kasinathan,  T.  Kasinathan,  Dakshayani  Singaraju,  D.  Singaraju,  & Srinivasulu Reddy Uyyala, S. Reddy Uyyala. (2021). Insect classification and detection in  field  crops  using  modern  machine  learning  techniques. Information  processing  in agriculture, vol-8, pp.446-457.
+[4]R.  Uma  Rani,  P.Amsini.(2016).  Pest  Identification  In  Leaf  Images  Using  SVM Classifier. International Journal Of Computational Intelligence And Informatics, Vol. 6: No. 1.
+[5]Insect classification and detection in field crops using modern machine learning techniques
+[6]Shen Y, Zhou H, Li J, Jian F, Jayas DS. Detection of stored-grain insects using deep learning. Comput Electron Agric 2018;145:319–25.
+[7]Bhargava A, Bansal A. Fruits and vegetables quality evaluation using computer vision: A review. J King Saud Univ Comput Inf Sci 2018. https://doi.org/10.1016/j. jksuci.2018.06.002 [in press].
+[8] Nanni L, Maguolo G, Pancino F. Research on insect pest image detection and recognition based on bio inspired methods; 2019. arXiv: 1910.00296.
+[9] Deng L, Wang Z, Wang C, He Y, Huang T, Dong Y, et al. Application of agricultural insect pest detection and control map based on image processing analysis. J Intell Fuzzy Syst 2020;38:379–89.
+[10] Bakkay MC, Chambon S, Rashwan HA, Lubat C, Barsotti S. Automatic detection of individual and touching moths from trap images by combining contour-based and region-based segmentation. IET Comput Vis 2017;12:138–45.
+[11] Yaakob SN, Jain L. An insect classification analysis based on shape features using quality threshold ARTMAP and moment invariant. Appl Intell 2012;37(1):12–30.
+[12]Xie C, Wang R, Zhang J, Chen P, Dong W, Li R, Chen T, Chen H. Multi-level learning features for automatic classification of field crop pests. Comput Electron Agric 2018;152:233–41.
+[13] Wang J, Lin C, Ji L, Liang A. A new automatic identification system of insect images at the order level. Knowl-Based Syst 2012;33:102–10.
+[14] Xie C, Zhang J, Li R, Li J, Hong P, Xia J, Chen P. Automatic classification for field crop insects via multiple-task sparse representation and multiple-kernel learning. Comput Electron Agric 2015;119:123–32.
+[15] Yang H-P, Ma C-S, Wen H, Zhan Q-B, Wang X-L. A tool for developing an automatic insect identification system based on wing outlines. Sci Rep 2015;5(1):1–11.
+[16] Coates A, Ng AY. Selecting receptive fields in deep networks. Adv Neural Inf Process Syst 2011:2528–36.
+[17] Lucas B, Shifaz A, Pelletier C, O’Neill L, Zaidi N, Goethals B, Petitjean F, Webb GI. Proximity Forest: an effective and scalable distance-based classifier for time series. Data Min Knowl Disc 2019;33(3):607–35.
+[18] Liu J-e, An F-P. Image classification algorithm based on deep learning-kernel function. Sci Program 2020;2020.
+[19] Nanni L, Brahnam S, Ghidoni S, Maguolo G. General purpose (GenP) bioimage ensemble of handcrafted and learned features with data augmentation; 2019. arXiv: 1904.08084.
+[20] Espinoza K, Valera DL, Torres JA, Lo´pez A, Molina-Aiz FD. Combination of image processing and artificial neural networks as a novel approach for the identification of Bemisia tabaci and Frankliniella occidentalis on sticky traps in greenhouse agriculture. Comput Electron Agric 2016;127:495–505.
+[21] Asefpour Vakilian K, Massah J. Performance evaluation of a machine vision system for insect pests identification of field crops using artificial neural networks. Arch Phytopathol Pflanzenschutz 2013;46(11):1262–9.
+[22] Martineau M, Conte D, Raveaux R, Arnault I, Munier D, Venturini G. A survey on image-based insect classification. Pattern Recogn 2017;65:273–84.
+[23] Zhu LQ, Ma MY, Zhang Z, Zhang PY, Wu W, Wang DD, et al. Hybrid deep learning for automated lepidopteran insect image classification. Orient Insects 2017;51:79–91.
+[24] Martins VA, Freitas LC, de Aguiar MS, de Brisolara LB, Ferreira PR. Deep learning applied to the identification of fruit fly in intelligent traps. In: Proc SBESC 19 IX Brazilian symposium on computing systems engineering. Rio Grande do Norte, Brazil. IEEE; 2019. p. 1–8.
+[25] Sharma P, Berwal YP, Ghai W. Performance analysis of deep learning CNN models for disease detection in plants using image segmentation. Inf Process Agric 2019. https://doi.org/ 10.1016/j.inpa.2019.11.001 [in press].
+
+
+
+
